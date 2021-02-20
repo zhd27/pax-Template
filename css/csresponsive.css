@@ -1,0 +1,476 @@
+
+@media (min-width: 320px) and (max-width: 575.98px) {
+    
+    .navbar-nav .nav-item .nav-link{
+    font-size: 18px;    
+           text-align: center;
+           background-color: white;
+           color: black;
+          font-weight: 400;
+        border-radius: 5px;
+         border-bottom:1px solid #c9d0d8;
+    }
+    .navbar-nav .nav-item .nav-link.active{
+          color: black;
+           font-weight: 400;
+        border: none;
+        border-radius: 5px;
+         border-bottom:1px solid #c9d0d8;
+    }
+    .navbar-nav .nav-item .check,.checks{
+        display: none;
+    }
+    .navbar-nav .nav-item{
+        
+    }
+    .navbar-nav .nav-item .nav-link:hover{
+        background-color: #c9d0d8;
+    }
+    
+    .head_text h1 {
+    font-size: 60px;
+    }
+    .head_text p {
+    font-size: 26px;
+    }
+    .head_text {
+    
+    margin-top: 50px;
+    }
+     .play{
+  background-color: white;
+    position: absolute;
+    padding: 6px 12px;
+    border-radius: 30px;
+      top: 182px;
+    left: 105px
+}
+ .play p {
+    font-size: 15px;
+    }
+    .play p i {
+    margin-left: 7px;
+    font-size: 15px;
+    }
+   
+.head_text a {
+    font-size: 17px;
+    padding: 15px 42px;
+    }
+    .head_text p {
+        margin-bottom: 65px;
+        margin-top: 10px;
+    }
+.banner_two h3 {
+
+    margin-top: 25px;
+    margin-bottom: 15px;
+    }
+   .banner_two {
+    margin-bottom: 15px;
+    margin-top: 50px;
+    }
+    
+   .banner_two h3 {
+    margin-top: 13px;
+    }
+    .banner {
+    padding-bottom: 60px;
+}
+ .creativity_img{
+    background: url(../image/banner_final.jpg);
+    background-repeat: no-repeat;
+    background-position:center center;
+    background-size:cover;
+    padding-top: 150px;
+     padding-bottom:60px;
+}
+ .creativity_img a {
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+    background-color: #0149a1;
+    padding: 10px 17px;
+    }
+    .work_text h1 {
+    font-size: 45px;
+    }
+    .work_text p {
+    font-size: 25px;
+        margin-bottom: 70px;
+    }
+.work {
+    padding-top: 65px;
+    padding-bottom: 95px;
+    }
+    .work_right p{
+        margin-top: 20px;
+        margin-bottom: 0px
+    }
+    .work_left{
+        margin-bottom: 40px;
+    }
+    
+    .work_anchor a {
+    font-size: 17px;
+    padding: 14px 42px;
+    }
+    .text-center p {
+    font-size: 14px;
+    }
+
+    .carousel-control-next-icon, .carousel-control-prev-icon {
+    width: 35px;
+    height: 35px;
+    border: 1px solid #e3e7eb;
+    font-size: 18px;
+    }
+    .Team_text h1{
+        font-size: 44px;
+    }
+    .Team_text p {
+    font-size: 30px;
+    margin-bottom: 50px
+    }
+    
+
+.team_two {
+    margin-bottom: 50px
+    }
+    .team_two h3 {
+    margin-top: 25px;
+    margin-bottom: 15px;
+    }
+    .team_anchor {
+    margin-top: 45px;
+    }
+   .our_Team {
+    padding-bottom: 100px;
+    }
+    .team_anchor a{
+           font-size: 17px;
+    padding: 14px 42px;
+    } 
+    .footer_content{
+        margin-bottom: 40px;
+    }
+    .bottom_end{
+        padding: 0px;
+    }
+    .bottom_end p{
+        font-size: 14px;
+        
+    }
+    
+    
+    
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+     .navbar-nav .nav-item .nav-link{
+    font-size: 18px;    
+           text-align: center;
+           background-color: white;
+           color: black;
+          font-weight: 400;
+        border-radius: 5px;
+         border-bottom:1px solid #c9d0d8;
+    }
+    .navbar-nav .nav-item .nav-link.active{
+          color: black;
+           font-weight: 400;
+        border: none;
+        border-radius: 5px;
+         border-bottom:1px solid #c9d0d8;
+    }
+    .navbar-nav .nav-item .check,.checks{
+        display: none;
+    }
+    .navbar-nav .nav-item{
+        
+    }
+    .navbar-nav .nav-item .nav-link:hover{
+        background-color: #c9d0d8;
+    }
+.head_text h1 {
+    font-size: 55px;
+    }
+    .head_text p {
+    font-size: 30px;
+    }
+    .head_text {
+    text-align: center;
+    margin-top: 85px;
+    }
+     .play{
+  background-color: white;
+    position: absolute;
+    padding: 6px 12px;
+    border-radius: 30px;
+    top: 191px;
+    left: 200px;
+}
+    .play p {
+    font-size: 18px;
+    }
+    .play p i {
+    margin-left: 10px;
+    font-size: 20px;
+    }
+    
+    .banner_two h3 {
+    margin-top: 25px;
+        margin-bottom: 5px;
+    }
+    .banner_two{
+        margin-bottom: 70px;
+    }
+   .banner {
+    padding-bottom: 25px;
+     
+    }
+    .head_img {
+    padding-bottom: 50px;
+    }
+    
+    .creativity_img{
+    background: url(../image/banner_final.jpg);
+    background-repeat: no-repeat;
+    background-position:center center;
+    background-size:cover;
+    padding-top: 254px;;
+     padding-bottom:106px;
+} 
+  .creativity_img a{
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+    background-color: #0149a1;
+    padding: 20px 65px;
+    border-radius: 30px;
+    box-shadow: 5px 3px 28px 24px white; 
+    
+    }
+.work_text h1 {
+    font-size: 65px;
+    font-weight: 700
+    }
+.work_text p {
+    font-size: 28px;
+    margin-bottom: 60px;
+    }
+    .work_left{
+        margin-bottom: 50px
+    } 
+    .work_anchor {
+    text-align: center;
+    margin-top: 60px;
+    }
+    .Team_text h1 {
+    font-size: 65px;
+    }
+    .Team_text p {
+    margin-bottom: 80px;
+    }
+   .team_two h3 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    }
+    .team_two {
+
+    margin-bottom: 70px;
+    }
+   
+    .team_anchor {
+    margin-top: 20px;
+    }
+    .footer_content{
+        margin-bottom: 40px;
+    }
+    .bottom_end{
+        padding: 0px;
+    }
+       .bottom_end p{
+        padding: 0px;
+        font-size: 16px;
+    }
+
+}
+    
+@media (min-width: 768px) and (max-width: 991.98px){
+
+    .head_text {
+    text-align: center;
+    margin-top: 90px;
+                }
+    
+    .play{
+    background-color: white;
+    position: absolute;
+    padding: 10px 15px;
+    border-radius: 30px;
+    top: 233px;
+    left: 293px
+}
+
+    .play p i,.play p {
+        font-size: 16px;
+    }
+    .banner_two h3 {
+
+    margin-top: 30px;
+        margin-bottom: 15px;
+    }
+
+    .banner_two {
+    margin-bottom: 70px
+    }
+    .banner_two p {
+    font-size: 16px;
+    }
+    .head_img{
+        padding-bottom: 40px;
+    }
+    
+    .banner {
+    padding-bottom: 25px;
+    }
+    
+        .creativity_img{
+
+    padding-top: 300px;;
+     padding-bottom:133px;
+} 
+    .work_left{
+        margin-bottom: 70px;
+    } 
+    .work_anchor {
+    text-align: center;
+    margin-top: 55px;
+    }
+    
+    .team_two {
+    text-align: center;
+    margin-bottom: 60px;
+    }
+    .team_anchor {
+    margin-top: 50px;
+    }
+    
+    
+}
+/*   lg start */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+     .play{
+     background-color: white;
+    position: absolute;
+    padding: 12px 24px;
+    border-radius: 30px;
+    top: 280px;
+    left: 407px
+}
+  .play p {
+    font-size: 17px;
+    }
+.play p i {
+    margin-left: 13px;
+    font-size: 17px;
+    }
+    
+    .banner_two h3 {;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+    .banner_two {
+    margin-bottom: 70px;
+    }
+    .head_img {
+    padding-bottom: 50px;
+    }
+    .banner {
+    padding-bottom: 25px;
+    }
+    .work_left{
+        margin-bottom: 60px;
+    }
+    
+    .team_two {
+    margin-bottom: 60px;
+    }
+    
+    .team_anchor {
+    margin-top: 50px;
+    }
+    
+    .work_right p {
+  
+    margin-bottom: 20px;
+    }
+}
+    
+/*   xl start */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  .banner_two {
+    margin-bottom: 60px;
+    }
+    
+    .banner_two h3 {
+    margin-top: 30px;
+    margin-bottom: 15px
+    }
+    .banner {
+    padding-bottom: 40px;
+    }
+    
+    .team_two {
+    text-align: center;
+    margin-bottom: 70px
+    }
+    .team_anchor {
+    margin-top: 45px;
+    }
+    
+.play {
+    background-color: white;
+    position: absolute;
+    padding: 13px 30px;
+    border-radius: 30px;
+    top: 314px;
+    left: 475px;
+    }
+    
+
+}
+    
+/* xxl */
+@media (min-width: 1400px) {
+    .team_two {
+    text-align: center;
+    margin-bottom: 70px;
+    }
+    .banner_two {
+    margin-bottom: 70px;
+    }
+    .banner_two h3 {
+    margin-top: 35px;
+    margin-bottom: 10px;
+    }
+    .play p i,.play p {
+    margin-left: 20px;
+    font-size: 22px
+    }
+    
+    .play {
+    background-color: white;
+    position: absolute;
+    padding: 15px 33px;
+    border-radius: 30px;
+    top: 345px;
+    left: 590px;
+    }
+    
+}
+    
+
+
